@@ -18,9 +18,11 @@
 有使用的插件：Newtonsoft.Json
 
 ## 项目展示 💞
-![选关](Display/Picture1.png)
-![游玩](Display/Picture2.png)
-![通关](Display/Picture3.png)
+
+| 选关 | 游玩 | 通关 |
+|:--:|:--:|:--:|
+| ![选关](Display/Picture1.png) | ![游玩](Display/Picture2.png) | ![通关](Display/Picture3.png) |
+
 
 ## 控制 👾
  🅆 🄰 🅂 🄳  移动 
